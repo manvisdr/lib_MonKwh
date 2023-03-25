@@ -4,3 +4,9 @@
 [submodule "EDMICmdLine"]
 	path = EDMICmdLine
 	url = https://github.com/manvisdr/EDMICmdLine
+[submodule "Time"]
+	path = Time
+	url = https://github.com/PaulStoffregen/Time
+[submodule "TimeAlarms"]
+	path = TimeAlarms
+	url = https://github.com/PaulStoffregen/TimeAlarms
