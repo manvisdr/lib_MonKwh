@@ -1,3 +1,6 @@
 [submodule "EthernetSPI2"]
 	path = EthernetSPI2
 	url = https://github.com/manvisdr/EthernetSPI2
+[submodule "EDMICmdLine"]
+	path = EDMICmdLine
+	url = https://github.com/manvisdr/EDMICmdLine
