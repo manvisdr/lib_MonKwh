@@ -1,0 +1,3 @@
+[submodule "EthernetSPI2"]
+	path = EthernetSPI2
+	url = https://github.com/manvisdr/EthernetSPI2
