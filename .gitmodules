@@ -10,3 +10,6 @@
 [submodule "TimeAlarms"]
 	path = TimeAlarms
 	url = https://github.com/PaulStoffregen/TimeAlarms
+[submodule "SketchLogger"]
+	path = SketchLogger
+	url = https://github.com/SergiuToporjinschi/SketchLogger
