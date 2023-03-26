@@ -13,3 +13,6 @@
 [submodule "SketchLogger"]
 	path = SketchLogger
 	url = https://github.com/SergiuToporjinschi/SketchLogger
+[submodule "SPIFFSLogger"]
+	path = SPIFFSLogger
+	url = https://github.com/bitmario/SPIFFSLogger
