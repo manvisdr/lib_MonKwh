@@ -13,3 +13,6 @@
 [submodule "SketchLogger"]
 	path = SketchLogger
 	url = https://github.com/SergiuToporjinschi/SketchLogger
+[submodule "CircularBuffer"]
+	path = CircularBuffer
+	url = https://github.com/rlogiacco/CircularBuffer
